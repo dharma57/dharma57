@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dharma57
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently pursuing maters in cyber security 
 - 💞️ I’m looking to collaborate on CTF'S
 - 📫 Reach me on dharmatejak73@gmail.com
 
