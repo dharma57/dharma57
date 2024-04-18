@@ -3,7 +3,7 @@
 
 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Successful career demonstrating positive results in mitigating risk through proactive solutions and problem-solving. Hands-on in leading all stages of security development, regulatory projects, monitoring, investigation, and support with the latest tools and technology.  
 
 ## Objective
 
