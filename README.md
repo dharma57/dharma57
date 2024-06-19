@@ -49,6 +49,7 @@ in proactive defense measures and security event management
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://github.com/dharma57/certification-icons/blob/5c43921e658f6f9d132009d9fea989b9ae4eb415/linkedin_thumb_Comptia_CySA_2Bce.png" />
 
 </div>
 
