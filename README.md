@@ -7,8 +7,10 @@ Successful career demonstrating positive results in mitigating risk through proa
 
 ## Objective
 
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Seasoned Cyber Security Analyst with 2 years of experience in threat monitoring, incident analysis, and vulnerability 
+assessment. Skilled in developing and evaluating security solutions, demonstrating leadership in a 24x7 Security 
+Operations Center environment. Actively seeking a role as Information Security Engineer Operations to apply expertise 
+in proactive defense measures and security event management
 
 ## Skills
 
