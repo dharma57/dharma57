@@ -7,7 +7,7 @@ Successful career demonstrating positive results in mitigating risk through proa
 
 ## Objective
 
-Seasoned Cyber Security Analyst with 3 years of experience in threat monitoring, incident analysis, and vulnerability 
+Seasoned Cyber Security Analyst with 5 years of experience in threat monitoring, incident analysis, and vulnerability 
 assessment. Skilled in developing and evaluating security solutions, demonstrating leadership in a 24x7 Security 
 Operations Center environment. Actively seeking a role as Information Security Engineer Operations to apply expertise 
 in proactive defense measures and security event management
